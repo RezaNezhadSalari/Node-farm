@@ -1,0 +1,19 @@
+{
+  "name": "node-farm",
+  "version": "1.0.0",
+  "description": "simple api with pure node js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RezaNezhadSalari/Node-farm.git"
+  },
+  "author": "Reza NezhadSalari",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RezaNezhadSalari/Node-farm/issues"
+  },
+  "homepage": "https://github.com/RezaNezhadSalari/Node-farm#readme"
+}
